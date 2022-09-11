@@ -65,8 +65,9 @@ const Main = styled.main`
   }
   
   td {
-      padding: 0.5rem 1rem;
+      padding: 1rem 1rem;
       font-size: 1.2rem;
+      line-height: 150%;
   }
 
   thead {

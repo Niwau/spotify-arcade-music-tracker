@@ -30,6 +30,26 @@ const GlobalStyle = createGlobalStyle`
     letter-spacing: 0.3rem;
     color: white;
     font-family: 'Press Start 2P', cursive;
+
+    @media(max-width: 775px){
+      font-size: 9px;
+    }
+
+    @media(max-width: 695px){
+      font-size: 8.5px;
+    }
+
+    @media(max-width: 582px){
+      font-size: 7px;
+    }
+
+    @media(max-width: 510px){
+      font-size: 6.5px;
+    }
+    
+    @media(max-width: 414px){
+      font-size: 6px;
+    }
   }
 
   span {
