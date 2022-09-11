@@ -26,9 +26,9 @@ Essa aplicação mostra as últimas músicas que você ouviu em um scoredboard d
 
 ## Melhorias futuras
 
-**[ ]** Encriptação do token de acesso
+**[ ]** Encriptação do Token de Acesso
 
-**[ ]** Refatoração de Código
+**[ ]** Refatoração de código
 
 **[ ]** Proteção de rotas
 
