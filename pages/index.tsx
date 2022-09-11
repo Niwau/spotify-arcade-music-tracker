@@ -17,7 +17,7 @@ export default function Home() {
           <h3>By <a target='_blank' href="https://github.com/Niwau">Guilherme Ribeiro</a></h3>
         </blockquote>
         <blockquote>
-         <h3><a href={url}>Press here to log in</a></h3>
+         <h3><a rel="noreferrer" href={url}>Press here to log in</a></h3>
          <h3><span id='credits'>CREDITS: 1</span></h3>
         </blockquote>
       </Main>
