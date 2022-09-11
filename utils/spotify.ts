@@ -1,7 +1,7 @@
 type spotifyType = {
     client_id: string,
     response_type: 'token',
-    redirect_uri: process.env.URL
+    redirect_uri: 'https://spotify-arcade-music-tracker.vercel.app/tracks'
     endpoint: 'https://accounts.spotify.com/authorize'
     scope: string
 }
