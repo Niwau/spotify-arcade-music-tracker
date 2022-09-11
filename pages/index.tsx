@@ -14,10 +14,10 @@ export default function Home() {
         <blockquote>
           <h1><span>Spotify</span> Arcade Music Tracker</h1>
           <h2>Log in with your <span>Spotify Account</span> to see the songs that you most listened in the last 4 weeks.</h2>
-          <h3>By <a target='_blank' href="https://github.com/Niwau">Guilherme Ribeiro</a></h3>
+          <h3>By <a target='_blank' rel="noreferrer" href="https://github.com/Niwau">Guilherme Ribeiro</a></h3>
         </blockquote>
         <blockquote>
-         <h3><a rel="noreferrer" href={url}>Press here to log in</a></h3>
+         <h3><a href={url}>Press here to log in</a></h3>
          <h3><span id='credits'>CREDITS: 1</span></h3>
         </blockquote>
       </Main>
