@@ -32,4 +32,4 @@ Essa aplicação mostra as últimas músicas que você ouviu em um scoredboard d
 
 **[ ]** Proteção de rotas
 
-**[ ]** Visual
+**[ ]** Melhorar o visual
